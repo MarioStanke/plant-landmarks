@@ -2,7 +2,7 @@
 
 This file explains in which order the Jupyter Lab files need to be executed and how.
 
-At first, Jupyter Lab needs to be installed as well as the programming language Python.
+At first, JupyterLab needs to be installed as well as the programming language Python.
 
 For both approaches the file *get_scale_data.ipynb* needs to be executed in advance or the file *all_scale_data.npy* needs to be present.
 Additionally, the folder *Utilities* needs to be present in the folders *Classification* and *Landmarks* with the files *affine_math_functions.py* and *preprocessing_functions.py*.
