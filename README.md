@@ -63,4 +63,4 @@ All files and results of my training runs can be found in the folders
 - *model_checkpoints* (final *.h5* file) and 
 - *logs* (to see the training curves on tensorboard)
 
-(The *images* folder *test*, *train*, *val* can be downloaded at http://bioinf.uni-greifswald.de/bioinf/downloads/data/Diphasiastrum/Diphasiastrum.tar.gz) 
+(The *test*, *train*, *val* folder of both approaches can be downloaded at http://bioinf.uni-greifswald.de/bioinf/downloads/data/Diphasiastrum/Diphasiastrum.tar.gz) 
