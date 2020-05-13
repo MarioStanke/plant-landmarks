@@ -11,6 +11,7 @@ In addition, the folder *DIP_images_fresh* needs to be present with subfolders
 - *all*                                            
 - *images dorsal_2018*
 - *images ventral_2018*
+(get the folder from http://bioinf.uni-greifswald.de/bioinf/downloads/data/Diphasiastrum/Diphasiastrum.tar.gz) 
 
 as well as the folder *DIP_fresh_data* with the subfolders 
 - *dorsal_2018*
@@ -60,4 +61,5 @@ All files and results of my training runs can be found in the folders
 - *images* (the folder *images_APPROACH* includes all preprocessed images and the folders *test*, *train*, *val* include the images assigned to the respective datasets), 
 - *files* (*.pkl* files that are generated in the respective *APPROACH_model_preprocess.ipynb* files), 
 - *model_checkpoints* (final *.h5* file) and 
-- *logs* (to see the training curves on tensorboard).
+- *logs* (to see the training curves on tensorboard)
+(The *images* folder *test*, *train*, *val* can be downloaded at http://bioinf.uni-greifswald.de/bioinf/downloads/data/Diphasiastrum/Diphasiastrum.tar.gz) 
