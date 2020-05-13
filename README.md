@@ -1,5 +1,7 @@
 # Convolutional neural network to distinguish *Diphasiastrum* taxa and to predict landmarks.
 
+https://doi.org/10.5281/zenodo.3824252
+
 This file explains in which order the JupyterLab files need to be executed and how.
 
 At first, JupyterLab needs to be installed as well as the programming language Python.
