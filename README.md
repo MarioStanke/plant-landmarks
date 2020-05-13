@@ -57,7 +57,7 @@ After that, the cells can be executed one after another.
 While training, tensorboard is used to follow the training process via the bash command `tensorboard --logdir=PATH TO LOG FILE`. 
 
 
-All files and results of my training runs can be found in the folders 
+All files and results of my training runs can be found for both approaches in the folders 
 - *images* (the folder *images_APPROACH* includes all preprocessed images and the folders *test*, *train*, *val* include the images assigned to the respective datasets), 
 - *files* (*.pkl* files that are generated in the respective *APPROACH_model_preprocess.ipynb* files), 
 - *model_checkpoints* (final *.h5* file) and 
