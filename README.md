@@ -1,6 +1,6 @@
 # Convolutional neural network to distinguish *Diphasiastrum* taxa and to predict landmarks.
 
-This file explains in which order the Jupyter Lab files need to be executed and how.
+This file explains in which order the JupyterLab files need to be executed and how.
 
 At first, JupyterLab needs to be installed as well as the programming language Python.
 
@@ -20,7 +20,7 @@ Both approaches have to be handled seperately.
 In order to start the classification approach, please only use contents out of the *Classification* folder and for the landmark approach only contents out of the *Landmark* folder are relevant.
 
 However, the execution of the programs of each approach follows identical instructions.
-For both approaches, three Jupyter Lab files exist in the respective folders *Classification* and *Landmarks*.
+For both approaches, three JupyterLab files exist in the respective folders *Classification* and *Landmarks*.
 
 Classification:
  
